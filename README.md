@@ -1,3 +1,3 @@
 # Kokoa Clone Update
 
-I'll master HTML, CSS! 
+HTML & CSS are much Fun!
